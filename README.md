@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Niels' GitHub stats](https://github-readme-stats.vercel.app/api?username=nielsm5&theme=darcula&show_icons=true)
+
 <!--
 **nielsm5/nielsm5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
